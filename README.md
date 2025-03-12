@@ -1,5 +1,8 @@
 # NLP-solution-CW1
 Identification of Randomised Controlled Trials (RCT) (for performing better systematic literature review and evidence-based healthcare)
+
+
+
 **Project Overview**
 
 This project focuses on classifying Randomized Controlled Trial (RCT) abstracts using multiple machine learning models, including Naïve Bayes, Logistic Regression, and a CNN-based deep learning model. The dataset consists of RCT and non-RCT abstracts, with text preprocessing and feature extraction techniques applied to improve model performance.
